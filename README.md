@@ -76,49 +76,6 @@ YManga is a modern, fast, and feature-rich manga reader application built with *
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK (>= 3.12.2)
-- Android Studio / VS Code
-- Git
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mdyeasinkhan4/y_manga_app.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd ymanga_app
-   ```
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Run build runner to generate code:
-   ```bash
-   dart run build_runner build --delete-conflicting-outputs
-   ```
-5. Run the app:
-   ```bash
-   flutter run
-   ```
-
----
-
-## 📦 Build for Android
-
-To build release APKs:
-```bash
-flutter build apk --release --split-per-abi
-```
-The APKs will be located in `build/app/outputs/flutter-apk/`.
-
----
-
 ## 🤝 Contribution
 
 Contributions are always welcome! Feel free to open an issue or submit a pull request.
