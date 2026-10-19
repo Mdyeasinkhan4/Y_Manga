@@ -1,6 +1,6 @@
 # YManga - The Ultimate Manga Reading Experience
 
-![Banner](assets/images/app_logo.png)
+![Banner](https://github.com/Mdyeasinkhan4/y_manga_app/blob/fcb058d945a2cdb96de6e7076b08f8f276b41243/assets/images/app_logo.jpg?raw=1)
 
 YManga is a modern, fast, and feature-rich manga reader application built with **Flutter**. It follows **Clean Architecture** principles and leverages the power of **Riverpod** for state management and **Drift (SQLite)** for a robust local database experience.
 
@@ -26,9 +26,9 @@ YManga is a modern, fast, and feature-rich manga reader application built with *
     <td align="center"><b>Manga Details</b></td>
   </tr>
   <tr>
-    <td><img src="preview_image/01.splash_sc.png" width="250"></td>
-    <td><img src="preview_image/02.home_sc.png" width="250"></td>
-    <td><img src="preview_image/03.manga_detail_sc.png" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/a8cdec160fabc9597157b4bca44a0e6e5c23a1a4/preview_image/01.splash_sc.png?raw=1" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/a8cdec160fabc9597157b4bca44a0e6e5c23a1a4/preview_image/02.home_sc.png?raw=1" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/a8cdec160fabc9597157b4bca44a0e6e5c23a1a4/preview_image/03.manga_detail_sc.png?raw=1" width="250"></td>
   </tr>
   <tr>
     <td align="center"><b>Reader Mode</b></td>
@@ -36,9 +36,9 @@ YManga is a modern, fast, and feature-rich manga reader application built with *
     <td align="center"><b>Smart Search</b></td>
   </tr>
   <tr>
-    <td><img src="preview_image/04.manga_read_sc.png" width="250"></td>
-    <td><img src="preview_image/05.manga_episodes_sc.png" width="250"></td>
-    <td><img src="preview_image/06.manga_search_sc.png" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/a8cdec160fabc9597157b4bca44a0e6e5c23a1a4/preview_image/04.manga_read_sc.png?raw=1" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/a8cdec160fabc9597157b4bca44a0e6e5c23a1a4/preview_image/05.manga_episodes_sc.png?raw=1" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/a8cdec160fabc9597157b4bca44a0e6e5c23a1a4/preview_image/06.manga_search_sc.png?raw=1" width="250"></td>
   </tr>
   <tr>
     <td align="center"><b>My Library</b></td>
@@ -46,9 +46,9 @@ YManga is a modern, fast, and feature-rich manga reader application built with *
     <td align="center"><b>Download Queue</b></td>
   </tr>
   <tr>
-    <td><img src="preview_image/07.manga_library_sc.png" width="250"></td>
-    <td><img src="preview_image/08.manga_history_sc.png" width="250"></td>
-    <td><img src="preview_image/09.download_sc.png" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/a8cdec160fabc9597157b4bca44a0e6e5c23a1a4/preview_image/07.manga_library_sc.png?raw=1" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/a8cdec160fabc9597157b4bca44a0e6e5c23a1a4/preview_image/08.manga_history_sc.png?raw=1" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/a8cdec160fabc9597157b4bca44a0e6e5c23a1a4/preview_image/09.download_sc.png?raw=1" width="250"></td>
   </tr>
   <tr>
     <td align="center"><b>Read Offline</b></td>
@@ -56,9 +56,9 @@ YManga is a modern, fast, and feature-rich manga reader application built with *
     <td align="center"><b>Dark Theme</b></td>
   </tr>
   <tr>
-    <td><img src="preview_image/10.read_from_downloaded_section_sc.png" width="250"></td>
-    <td><img src="preview_image/11.readDownloadedChapterOffline_sc.png" width="250"></td>
-    <td><img src="preview_image/12.darkTheme_sc.png" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/a8cdec160fabc9597157b4bca44a0e6e5c23a1a4/preview_image/10.read_from_downloaded_section_sc.png?raw=1" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/a8cdec160fabc9597157b4bca44a0e6e5c23a1a4/preview_image/11.readDownloadedChapterOffline_sc.png?raw=1" width="250"></td>
+    <td><img src="https://github.com/Mdyeasinkhan4/y_manga_app/blob/061657e90f65aa571a9e546cbe10646e0717e4be/preview_image/12.darkTheme_sc.png?raw=1" width="250"></td>
   </tr>
 </table>
 
