@@ -76,6 +76,10 @@ YManga is a modern, fast, and feature-rich manga reader application built with *
 
 ---
 
+## Download APK
+
+Download latest Android APK from [GitHub Releases](https://github.com/Mdyeasinkhan4/Y_Manga/releases).
+
 ## 🤝 Contribution
 
 Contributions are always welcome! Feel free to open an issue or submit a pull request.
